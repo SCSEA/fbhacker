@@ -18,7 +18,7 @@ print(Fore.RED + programmer)
 
 slowprint(Fore.GREEN+"""#server facebook console
 
-API-ID : APZ48D0eQ7xN6WgXqjyldkbVzqJEg1rv
+API-ID : APZ48D0eQ7xN6WfjfjyldkbVjfjfjzqJEg1rv
 
 var password = [ *********** ]
 
