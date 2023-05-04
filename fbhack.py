@@ -7,13 +7,10 @@ import pyfiglet
 from colorama import Fore, init
 
 from slowprint.slowprint import *
-
 os.system("clear")
-
 t.sleep(1)
 
 programmer = pyfiglet.figlet_format("Facebook Hacker")
-
 print(Fore.RED + programmer)
 
 slowprint(Fore.GREEN+"""#server facebook console
