@@ -8,7 +8,7 @@ pkg install python3
 
 git clone https://github.com/Yousuf9963/fake-fbhacker.git
 
-cd fbhacker
+cd fake-fbhacker.git
 
 python3 fbhack.py
 
