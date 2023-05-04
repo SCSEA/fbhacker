@@ -10,4 +10,7 @@ git clone https://github.com/Yousuf9963/fake-fbhacker.git
 
 cd fbhacker
 
-python3 
+python3 fbhack.py
+
+# Donation
+https://www.buymeacoffee.com/junioprogrammer
