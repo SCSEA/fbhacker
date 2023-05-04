@@ -10,6 +10,8 @@ git clone https://github.com/Yousuf9963/fake-fbhacker.git
 
 cd fake-fbhacker
 
+pip3 install -r requirements.txt
+
 python3 fbhack.py
 
 # Donation
