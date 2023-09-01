@@ -6,7 +6,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Yousuf9963/fake-fbhacker.git
+git clone https://github.com/SCSEA/fbhacker.git
 
 cd fake-fbhacker
 
